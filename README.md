@@ -100,7 +100,8 @@ ___
 ___
 
 
-7, [My CloudFront Endpoint](http://dsudrn7i2ptul.cloudfront.net)
+7. [My CloudFront Endpoint--Click here!](http://dsudrn7i2ptul.cloudfront.net)
 
+    - http://dsudrn7i2ptul.cloudfront.net
 
 ![My Website](png/my_website.png)
