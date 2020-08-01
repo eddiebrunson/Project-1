@@ -38,6 +38,7 @@ ___
    and select Upload 
 
    ![Bucket Files](png/bucket_files.png)
+   ![S3](png/s3_console.png)
 ___
 
 
